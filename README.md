@@ -1,6 +1,6 @@
 ### Hi there, I'm Srikanth, nice to meet you! 👋
 
--  🧠 2024 Learning Goals: Working on Java Spring Boot, React, Typescript, and Tailwind CSS skills.
+-  🧠 2024 Learning Goals: Working on Java Spring Boot, React, TypeScript, and Tailwind CSS skills.
 -  💼 At work, I actively used Express.js and Python.
 
 <!--
