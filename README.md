@@ -1,6 +1,6 @@
 ### Hi there, I'm Srikanth, nice to meet you! 👋
 
--  🧠 2024 Learning Goals: Developing my skills in: Java, Spring Boot, React, and TypeScript.
+-  🧠 2024 Learning Goals: Developing my skills in Java, Spring Boot, React, and TypeScript.
 
 <!--
 ## 🚀 Current Projects:
