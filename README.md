@@ -1,6 +1,6 @@
 ### Hi there, I'm Srikanth, nice to meet you! 👋
 
--  🧠 2024 Tech Interests: Java, Spring Boot, Next.js, React, and TypeScript.
+-  🧠 2024 Tech Interests: Java, Spring Boot, Next.js, and React.
 
 <!--
 ## 🚀 Current Projects:
