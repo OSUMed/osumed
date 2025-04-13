@@ -1,7 +1,7 @@
 ### Hi there, I'm Srikanth, nice to meet you! 👋
 
--  🧠 2025 Tech Interests: AWS, ava Spring Boot, Nest.js, and React.
--  💼 Current Project: fitchatly.com - A React-based chat application with a fully integrated AWS infrastructure.
+- 🧠 **2025 Tech Interests**: AWS, Java Spring Boot, Nest.js, React, and Cloud Computing.
+- 💼 **Current Project**: [fitchatly.com](https://fitchatly.com) - A React-based chat application with a fully integrated AWS infrastructure.
 
 <!--
 ## 🚀 Current Projects:
